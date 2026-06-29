@@ -138,7 +138,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;PERN+%7C+MERN+%7C+Next.js+14;Code.+Create.+Innovate." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;NextJS+%7C+PostgreSQL+%7C+DigitalOcean;Code.+Create.+Innovate." alt="Typing SVG" />
 </h1>
 
 ###
