@@ -134,7 +134,12 @@
 </div>
 -->
 
-<h1 data-importer="text" align="left">Hi I'm Ayan Ali 👋</h1>
+<img width="2172" height="724" alt="banner-1" src="https://github.com/user-attachments/assets/74d6d271-c5ac-4a06-9e30-3a22510a1acf" />
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;PERN+%7C+MERN+%7C+Next.js+14;Code.+Create.+Innovate." alt="Typing SVG" />
+</h1>
 
 ###
 
@@ -175,15 +180,9 @@
 ###
 
 <div data-importer="socials" align="center">
-  <a href="mailto:pathanayan8347@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ayanali-in/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/ayanali_x" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="30" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="30" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=plastic" height="30" alt="twitter logo"  />
 </div>
 
 ###
