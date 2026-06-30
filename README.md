@@ -172,9 +172,9 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/ayanali-git/ayanali-git/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ayanali-git&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/ayanali-git/ayanali-git/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://ghstats.dev/api/card?username=ayanali-git&hide_border=true&border_radius=25&size=compact" alt="GitHub Stats Card" />
+  
+  <img src="https://ghstats.dev/api/langs?username=ayanali-git&hide_border=true&border_radius=25&layout=stacked" alt="Top Languages" />
 </div>
 
 ###
