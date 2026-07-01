@@ -172,7 +172,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://ghstats.dev/api/card?username=ayanali-git&hide_border=true&border_radius=25&size=compact" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/card?username=ayanali-git&show_ring=false&hide_border=true" alt="GitHub Stats Card" />
   
   <img src="https://ghstats.dev/api/langs?username=ayanali-git&hide_border=true&border_radius=25&layout=stacked" alt="Top Languages" />
 </div>
