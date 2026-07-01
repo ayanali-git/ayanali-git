@@ -40,6 +40,8 @@
   <img src="https://ghstats.dev/api/card?username=ayanali-git&show_ring=false&hide_border=true" alt="GitHub Stats Card" />
   
   <img src="https://ghstats.dev/api/langs?username=ayanali-git&hide_border=true&border_radius=25&layout=stacked" alt="Top Languages" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanali-git&theme=github-compact&hide_border=true" />
 </div>
 
 ###
