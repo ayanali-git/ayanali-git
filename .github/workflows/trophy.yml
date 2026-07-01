@@ -1,0 +1,35 @@
+name: Generate GitHub Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  trophies:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate trophies
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: ayanali-git
+          theme: darkhub
+          no-frame: true
+          no-bg: false
+          row: 1
+          column: 7
+          output: trophy.svg
+
+      - name: Deploy to trophy-output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: trophy-output
+          publish_dir: .
+          force_orphan: true
