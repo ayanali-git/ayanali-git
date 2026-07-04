@@ -1,4 +1,4 @@
-<img width="2172" height="724" alt="banner-1" src="https://github.com/user-attachments/assets/74d6d271-c5ac-4a06-9e30-3a22510a1acf" />
+<img width="2172" height="724" alt="banner-1" src="https://github.com/user-attachments/assets/6817bbe7-1f12-4d3a-95e9-fe16560709a8" />
 
 ###
 
@@ -39,7 +39,7 @@
 <div data-importer="stats" align="center">
   <img src="https://ghstats.dev/api/card?username=ayanali-git&show_ring=false&hide_border=true" alt="GitHub Stats Card" />
   
-  <img src="https://ghstats.dev/api/langs?username=ayanali-git&hide_border=true&border_radius=25&layout=stacked" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/langs?username=ayanali-git&hide_border=true&border_radius=25" alt="Top Languages" />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanali-git&theme=github-compact&hide_border=true" />
 </div>
