@@ -1,4 +1,8 @@
 <!-- <img width="2172" height="724" alt="banner-1" src="https://github.com/user-attachments/assets/6817bbe7-1f12-4d3a-95e9-fe16560709a8" /> -->
+<div align="center">
+  <img width="475" height="340" alt="IMG_2738" src="https://github.com/user-attachments/assets/a8f5d632-1834-4d75-bdc2-16d8745308df" />
+</div>
+
 ###
 
 <h1 align="center">
